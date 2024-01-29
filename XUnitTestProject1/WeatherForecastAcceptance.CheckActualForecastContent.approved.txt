@@ -1,0 +1,27 @@
+[
+  {
+    "temperatureC": 0,
+    "temperatureF": 32,
+    "summary": "Freezing"
+  },
+  {
+    "temperatureC": 0,
+    "temperatureF": 32,
+    "summary": "Freezing"
+  },
+  {
+    "temperatureC": 0,
+    "temperatureF": 32,
+    "summary": "Freezing"
+  },
+  {
+    "temperatureC": 0,
+    "temperatureF": 32,
+    "summary": "Freezing"
+  },
+  {
+    "temperatureC": 0,
+    "temperatureF": 32,
+    "summary": "Freezing"
+  }
+]
